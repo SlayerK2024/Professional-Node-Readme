@@ -43,3 +43,6 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Project Walkthrough & Screenshot
+![node](https://github.com/SlayerK2024/Professional-Node-Readme/assets/157855730/93c89d92-d804-4a84-af82-064d4dc0ea89)
+
+https://drive.google.com/file/d/1m5hM_8Vg0MOgdNtwZERTKVIQ6qdub6NB/view?usp=drive_link
